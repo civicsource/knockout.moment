@@ -1,0 +1,13 @@
+{
+  "name": "knockout-moment",
+  "version": "1.0.0",
+  "main": "knockout-moment.js",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "knockout.js": "~3.0.0",
+    "moment": "~2.6.0"
+  }
+}
