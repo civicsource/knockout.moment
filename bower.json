@@ -1,7 +1,7 @@
 {
   "name": "knockout-moment",
-  "version": "1.0.1",
-  "main": "knockout-moment.js",
+  "version": "1.0.2",
+  "main": "knockout.moment.js",
   "ignore": [
     "node_modules",
     "bower_components"
