@@ -1,6 +1,6 @@
 {
   "name": "knockout.moment",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A simple knockout extender which wraps moment.js",
   "main": "knockout.moment.js",
   "scripts": {
@@ -21,10 +21,10 @@
   },
   "peerDependencies": {
     "knockout": "3.x"
-  },  
+  },
   "devDependencies": {
     "babel-eslint": "6.x",
     "eslint": "2.x",
-    "eslint-plugin-filenames": "1.x"     
+    "eslint-plugin-filenames": "1.x"
   }
 }
