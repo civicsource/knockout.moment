@@ -1,0 +1,30 @@
+{
+  "name": "knockout.moment",
+  "version": "2.0.1",
+  "description": "A simple knockout extender which wraps moment.js",
+  "main": "knockout.moment.js",
+  "scripts": {
+    "lint": "eslint . --format=unix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civicsource/knockout.moment.git"
+  },
+  "author": "CivicSource",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/civicsource/knockout.moment/issues"
+  },
+  "homepage": "https://github.com/civicsource/knockout.moment#readme",
+  "dependencies": {
+    "moment": "2.x"
+  },
+  "peerDependencies": {
+    "knockout": "3.x"
+  },
+  "devDependencies": {
+    "babel-eslint": "6.x",
+    "eslint": "2.x",
+    "eslint-plugin-filenames": "1.x"
+  }
+}
